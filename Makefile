@@ -12,6 +12,7 @@ help:
 	@echo 
 	@echo --------- CMD ----------
 	@echo yarn cmd="cmd": execute yarn cmd
+	@echo cli cmd="cmd": execute cli cmd
 	@echo
 .PHONY: help
 
@@ -20,8 +21,12 @@ start:
 	@${DEFAULT_CMD} yarn install
 	@${DEFAULT_CMD} yarn start
 
-## Yarn
+.PHONY: start
+
+## CMD
 yarn:
 	@${DEFAULT_CMD} yarn ${cmd}
+cli:
+	@${DEFAULT_CMD} ${cmd}
 
-.PHONY: start
+.PHONY: yarn cli

@@ -26,8 +26,14 @@
   margin: 2VH;
 }
 
-.App-link {
-  color: #61dafb;
+a {
+  color: #282c34;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 @keyframes App-logo-spin {
