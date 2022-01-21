@@ -2,7 +2,7 @@ CURRENT_UID = $(shell id -u)
 CURRENT_GID = $(shell id -g)
 CURRENT_PATH = $(shell pwd)
 
-DEFAULT_CMD = docker run -it --rm -u ${CURRENT_UID}:${CURRENT_GID} -w /usr/src -v ${CURRENT_PATH}:/usr/src -p 3000:3000 node:lts-alpine
+DEFAULT_CMD = docker run --rm -u ${CURRENT_UID}:${CURRENT_GID} -w /usr/src -v ${CURRENT_PATH}:/usr/src -p 3000:3000 node:lts-alpine
 
 .DEFAULT_GOAL := help
 help:
