@@ -1,0 +1,10 @@
+on: [push]
+jobs:
+  build:
+    runs-on: node:lts-alpine
+    steps:
+    - run: |
+        yarn install
+        yarn build
+        rm -rf public
+        mv build public
