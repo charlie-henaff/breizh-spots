@@ -70,10 +70,10 @@ class App extends Component {
             {this.addPlayerGridItem("Saint-Quay-Portieux", "https://www.youtube.com/watch?v=lWPgeICToUk")}
 
             {/* Binic */}
-            {/* this.addPlayerGridItem("Binic", "https://www.youtube.com/watch?v=8DThsr2fxwk")}
+            {/* this.addPlayerGridItem("Binic", "https://www.youtube.com/watch?v=8DThsr2fxwk") */}
             
             {/* Étables-sur-Mer */}
-            {this.addPlayerGridItem("Étables-sur-Mer", "https://www.youtube.com/watch?v=4b2NDbyw5ZQ") */}
+            {this.addPlayerGridItem("Étables-sur-Mer", "https://www.youtube.com/watch?v=4b2NDbyw5ZQ")}
             
             {/* Pléneuf Val André */}
             {this.addPlayerGridItem("Pléneuf-Val-André", 'https://hls.iwilive.net/live/pleneuf0.stream/chunklist_w1311621573.m3u8')}
