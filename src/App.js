@@ -70,7 +70,7 @@ class App extends Component {
             {this.addPlayerGridItem("Saint-Quay-Portieux", "https://www.youtube.com/watch?v=lWPgeICToUk")}
 
             {/* Binic */}
-            {/* this.addPlayerGridItem("Binic", "https://www.youtube.com/watch?v=8DThsr2fxwk") */}
+            {/* {this.addPlayerGridItem("Binic", "https://www.youtube.com/watch?v=8DThsr2fxwk")} */}
             
             {/* Étables-sur-Mer */}
             {this.addPlayerGridItem("Étables-sur-Mer", "https://www.youtube.com/watch?v=4b2NDbyw5ZQ")}
@@ -88,7 +88,7 @@ class App extends Component {
             {this.addPlayerGridItem("Saint-Malo", "https://youtu.be/2uznaTjvb7I")}
 
             {/* Cancale */}
-            {/* this.addPlayerGridItem("Cancale", "https://www.youtube.com/watch?v=o06T213KolE") */}
+            {/* {this.addPlayerGridItem("Cancale", "https://www.youtube.com/watch?v=o06T213KolE")} */}
 
           </Grid>
         </div>
