@@ -64,7 +64,7 @@ class App extends Component {
             {this.addPlayerGridItem("Perros-Guirec", "https://www.youtube.com/watch?v=ui_9qAoosls")}
 
             {/* Trestraou */}
-            {this.addPlayerGridItem("Trestraou", "https://youtu.be/_5kHwxpR3tA")}
+            {/* this.addPlayerGridItem("Trestraou", "https://youtu.be/_5kHwxpR3tA") */}
 
             {/* Saint-Quay-Portieux */}
             {this.addPlayerGridItem("Saint-Quay-Portieux", "https://www.youtube.com/watch?v=lWPgeICToUk")}
@@ -88,7 +88,7 @@ class App extends Component {
             {this.addPlayerGridItem("Saint-Malo", "https://youtu.be/2uznaTjvb7I")}
 
             {/* Cancale */}
-            {this.addPlayerGridItem("Cancale", "https://www.youtube.com/watch?v=o06T213KolE")}
+            {/* this.addPlayerGridItem("Cancale", "https://www.youtube.com/watch?v=o06T213KolE") */}
 
           </Grid>
         </div>
