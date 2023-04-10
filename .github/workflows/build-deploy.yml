@@ -18,8 +18,6 @@ jobs:
       run: make yarn cmd=install
 
     - name: Build files
-      env:
-       NODE_OPTIONS: --openssl-legacy-provider
       run: make yarn cmd=build
     
     - name: Upload production-ready build files
