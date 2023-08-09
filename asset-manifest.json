@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/breizh-spots/static/css/main.0f3ebba4.chunk.css",
-    "main.js": "/breizh-spots/static/js/main.d153b396.chunk.js",
-    "main.js.map": "/breizh-spots/static/js/main.d153b396.chunk.js.map",
-    "runtime-main.js": "/breizh-spots/static/js/runtime-main.774c055c.js",
-    "runtime-main.js.map": "/breizh-spots/static/js/runtime-main.774c055c.js.map",
-    "static/js/2.c7e05141.chunk.js": "/breizh-spots/static/js/2.c7e05141.chunk.js",
-    "static/js/2.c7e05141.chunk.js.map": "/breizh-spots/static/js/2.c7e05141.chunk.js.map",
-    "static/js/3.6a28972a.chunk.js": "/breizh-spots/static/js/3.6a28972a.chunk.js",
-    "static/js/3.6a28972a.chunk.js.map": "/breizh-spots/static/js/3.6a28972a.chunk.js.map",
+    "main.js": "/breizh-spots/static/js/main.2a10badd.chunk.js",
+    "main.js.map": "/breizh-spots/static/js/main.2a10badd.chunk.js.map",
+    "runtime-main.js": "/breizh-spots/static/js/runtime-main.9a0bcb3a.js",
+    "runtime-main.js.map": "/breizh-spots/static/js/runtime-main.9a0bcb3a.js.map",
+    "static/js/2.a5b70499.chunk.js": "/breizh-spots/static/js/2.a5b70499.chunk.js",
+    "static/js/2.a5b70499.chunk.js.map": "/breizh-spots/static/js/2.a5b70499.chunk.js.map",
+    "static/js/3.42b89e1e.chunk.js": "/breizh-spots/static/js/3.42b89e1e.chunk.js",
+    "static/js/3.42b89e1e.chunk.js.map": "/breizh-spots/static/js/3.42b89e1e.chunk.js.map",
     "index.html": "/breizh-spots/index.html",
     "static/css/main.0f3ebba4.chunk.css.map": "/breizh-spots/static/css/main.0f3ebba4.chunk.css.map",
-    "static/js/2.c7e05141.chunk.js.LICENSE.txt": "/breizh-spots/static/js/2.c7e05141.chunk.js.LICENSE.txt"
+    "static/js/2.a5b70499.chunk.js.LICENSE.txt": "/breizh-spots/static/js/2.a5b70499.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.774c055c.js",
-    "static/js/2.c7e05141.chunk.js",
+    "static/js/runtime-main.9a0bcb3a.js",
+    "static/js/2.a5b70499.chunk.js",
     "static/css/main.0f3ebba4.chunk.css",
-    "static/js/main.d153b396.chunk.js"
+    "static/js/main.2a10badd.chunk.js"
   ]
 }
