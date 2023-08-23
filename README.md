@@ -3,14 +3,16 @@
 This project provide webcam live streams from north coast brittany beaches.  
 It's available at https://charlie-henaff.github.io/breizh-spots.
 
-# How to run ?
-
 ## Requirements
 
 - [docker](https://docs.docker.com/engine/install/)  
 - [make](https://www.gnu.org/software/make/) (optional)
 
-## Uses 
+## Configuration 
+
+Link video flux's you want to provide inside [cam.csv](public/cam.csv) file.
+
+## Commands
 
 ```sh
 make                # show help
