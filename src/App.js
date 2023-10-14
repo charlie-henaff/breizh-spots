@@ -77,6 +77,7 @@ class App extends Component {
                 <div className="App-content">
                     <Grid container spacing={3}>
                         {items && items
+                            .filter(item => item[0].length > 0 && item[1].length > 0)
                             .filter(item => !disabledItemKeys.includes(item[1]))
                             .map(item => this.addPlayerGridItem(item[0], item[1], playing, item[1]))
                         }
