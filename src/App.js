@@ -19,11 +19,9 @@ class App extends Component {
 
     componentDidMount() {
         readRemoteFile(`${process.env.PUBLIC_URL}/cam.csv`, {
-            complete: (results) => {
-                this.setState({ items: results.data });
-                console.log(this.state.items);
-            },
-            comments: true
+            complete: (results) => this.setState({ items: results.data }),
+            comments: true,
+            skipEmptyLines: true
         });
     }
 
