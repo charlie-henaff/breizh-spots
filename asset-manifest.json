@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/breizh-spots/static/css/main.0f3ebba4.chunk.css",
-    "main.js": "/breizh-spots/static/js/main.2a10badd.chunk.js",
-    "main.js.map": "/breizh-spots/static/js/main.2a10badd.chunk.js.map",
+    "main.js": "/breizh-spots/static/js/main.d0bb3ef2.chunk.js",
+    "main.js.map": "/breizh-spots/static/js/main.d0bb3ef2.chunk.js.map",
     "runtime-main.js": "/breizh-spots/static/js/runtime-main.9a0bcb3a.js",
     "runtime-main.js.map": "/breizh-spots/static/js/runtime-main.9a0bcb3a.js.map",
     "static/js/2.a5b70499.chunk.js": "/breizh-spots/static/js/2.a5b70499.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9a0bcb3a.js",
     "static/js/2.a5b70499.chunk.js",
     "static/css/main.0f3ebba4.chunk.css",
-    "static/js/main.2a10badd.chunk.js"
+    "static/js/main.d0bb3ef2.chunk.js"
   ]
 }
